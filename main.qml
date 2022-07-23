@@ -39,4 +39,13 @@ Window {
         height: 200
         color: "#bf30b3"
     }
+    
+    Rectangle {
+        id: rectangle
+        x: 50
+        y: 252
+        width: 150
+        height: 150
+        color: "grey"
+    }
 }
