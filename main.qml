@@ -29,6 +29,15 @@ Window {
         height: 137
         width: 277
         color: "blue"
+
+        Rectangle {
+            id: rectangle1
+            x: -206
+            y: 27
+            width: 400
+            height: 286
+            color: "#e5ff00"
+        }
     }
 
     Rectangle {
@@ -41,7 +50,6 @@ Window {
     }
     
     Rectangle {
-        id: rectangle
         x: 50
         y: 252
         width: 150
