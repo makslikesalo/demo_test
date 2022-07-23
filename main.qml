@@ -32,7 +32,7 @@ Window {
 
         Rectangle {
             id: rectangle1
-            x: -106
+            x: -206
             y: 27
             width: 400
             height: 286
