@@ -16,10 +16,18 @@ Window {
     }
 
     Rectangle {
-        x: 150
-        y: 160
+        x: 206
+        y: 252
         height: 100
         width: 110
         color: "green"
+    }
+
+    Rectangle {
+        x: 227
+        y: 52
+        height: 137
+        width: 277
+        color: "blue"
     }
 }
