@@ -30,4 +30,13 @@ Window {
         width: 277
         color: "blue"
     }
+
+    Rectangle {
+        id: rectangle
+        x: 416
+        y: 252
+        width: 200
+        height: 200
+        color: "#bf30b3"
+    }
 }
